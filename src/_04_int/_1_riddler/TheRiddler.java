@@ -7,7 +7,26 @@ package _04_int._1_riddler;
 public class TheRiddler {
 
 	public static void main(String[] args) {
-
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
+		//sign out of you git hub next time or I will do worse things
 		// 1. Make a variable to hold the score
 
 		// 3. Ask the user a riddle. Here are some ideas: bit.ly/some-riddles
