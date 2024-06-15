@@ -18,15 +18,25 @@ public class TheRiddler {
 		
 			// 4. If they got the answer right, pop up "correct!" and increase the score by one
 			if("coffin".equalsIgnoreCase(input)) {
-				JOptionPane.showMessageDialog(null, "correct");
+				JOptionPane.showMessageDialog(null, "correct"); 
+				score ++;
 			}
 		// 5. Otherwise, say "wrong" and tell them the answer
-			else
+			else {
 				JOptionPane.showMessageDialog(null, "wrong, it was coffin ");
+			}
 		// 6. Add some more riddles
-
+				String riddle = JOptionPane.showInputDialog("What can travel around the world while staying in a corner?");
+				
+				if("stamp".equalsIgnoreCase(riddle)) {
+					JOptionPane.showMessageDialog(null, "correct");
+					score++;
+				}
+				else {
+					JOptionPane.showMessageDialog(null, "wrong, it was stamp");
+				}
 		// 2. Make a pop up to show the score.
-		
+					JOptionPane.showMessageDialog(null, "your score is " +score);
 	}
 }
 
